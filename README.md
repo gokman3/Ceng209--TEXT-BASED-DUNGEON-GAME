@@ -41,7 +41,7 @@
    mingw32-make -f Makefile.mak
 
 ### Execution
-./dungeon
+Start the gmae with ./dungeon
 
 
 
